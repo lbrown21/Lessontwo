@@ -1,9 +1,6 @@
 # task 1
 
 
-
-
-
 if (2024 % 4 == 0) and (1900 % 100 != 0):
     print(2024, "is a leap year.")
 
